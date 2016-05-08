@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <parent>
+        <groupId>com.github.subchen</groupId>
+        <artifactId>jetbrick-parent</artifactId>
+        <version>2.4</version>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>jetbrick-eclipse-formatter</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+
+    <name>com.github.subchen</name>
+    <description>jetbrick eclipse formatter configuration</description>
+    <url>https://github.com/subchen/jetbrick-eclipse-formatter</url>
+
+    <scm>
+        <connection>scm:git:git@github.com:subchen/jetbrick-eclipse-formatter.git</connection>
+        <developerConnection>scm:git:git@github.com:subchen/jetbrick-eclipse-formatter.git</developerConnection>
+        <url>git@github.com:subchen/jetbrick-eclipse-formatter.git</url>
+    </scm>
+
+</project>
